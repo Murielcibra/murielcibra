@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muriel Cishek</h1>
 <h3 align="center">From an Architect to a Front-end developer. What a ride!</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
+<a href="url"><img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif" align="right" alt="Process" width="250"  ></a>
 
 - 🔭 I’m currently working on **changing my career path at Coding-Bootcamps.eu**
 
